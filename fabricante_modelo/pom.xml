@@ -16,7 +16,9 @@
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
+< dependabot/maven/fabricante_modelo/org.postgresql-postgresql-42.4.1
 			<version>42.2.26</version>
+
 		</dependency>
 	</dependencies>
 </project>
